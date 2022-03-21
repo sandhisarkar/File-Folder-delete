@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFolderDel", "FileFolderDel\FileFolderDel.csproj", "{02212C1D-14B5-45E2-8D87-B5B594622CEF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{7F774FFA-CC6A-49E1-A98D-FACE15510AA7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{1ECAC38C-B19C-4262-9A86-C7984F1CBE60}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{E9C82DF0-ECCC-4615-A020-67D213810B51}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cache Cleaner", "Cache Clear\Cache Clear.vdproj", "{851A97F4-DAF8-4654-BF95-9520D04FBC8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02212C1D-14B5-45E2-8D87-B5B594622CEF}.Debug|x86.ActiveCfg = Debug|x86
+		{02212C1D-14B5-45E2-8D87-B5B594622CEF}.Debug|x86.Build.0 = Debug|x86
+		{02212C1D-14B5-45E2-8D87-B5B594622CEF}.Release|x86.ActiveCfg = Release|x86
+		{02212C1D-14B5-45E2-8D87-B5B594622CEF}.Release|x86.Build.0 = Release|x86
+		{7F774FFA-CC6A-49E1-A98D-FACE15510AA7}.Debug|x86.ActiveCfg = Debug
+		{7F774FFA-CC6A-49E1-A98D-FACE15510AA7}.Release|x86.ActiveCfg = Release
+		{1ECAC38C-B19C-4262-9A86-C7984F1CBE60}.Debug|x86.ActiveCfg = Debug
+		{1ECAC38C-B19C-4262-9A86-C7984F1CBE60}.Release|x86.ActiveCfg = Release
+		{E9C82DF0-ECCC-4615-A020-67D213810B51}.Debug|x86.ActiveCfg = Debug
+		{E9C82DF0-ECCC-4615-A020-67D213810B51}.Release|x86.ActiveCfg = Release
+		{851A97F4-DAF8-4654-BF95-9520D04FBC8F}.Debug|x86.ActiveCfg = Debug
+		{851A97F4-DAF8-4654-BF95-9520D04FBC8F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

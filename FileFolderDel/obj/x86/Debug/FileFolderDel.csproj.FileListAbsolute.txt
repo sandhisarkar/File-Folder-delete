@@ -1,0 +1,20 @@
+C:\Users\SandhiS\Desktop\FileFolderDel\FileFolderDel\bin\Debug\FileFolderDel.exe
+C:\Users\SandhiS\Desktop\FileFolderDel\FileFolderDel\bin\Debug\FileFolderDel.pdb
+C:\Users\SandhiS\Desktop\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.Form1.resources
+C:\Users\SandhiS\Desktop\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.Properties.Resources.resources
+C:\Users\SandhiS\Desktop\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.csproj.GenerateResource.Cache
+C:\Users\SandhiS\Desktop\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.exe
+C:\Users\SandhiS\Desktop\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.pdb
+C:\Users\SandhiS\Desktop\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.csprojResolveAssemblyReference.cache
+E:\Sandhi\Laptop Backup\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.exe
+E:\Sandhi\Laptop Backup\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\FileFolderDel\FileFolderDel\bin\Debug\FileFolderDel.exe
+E:\Sandhi\Laptop Backup\Sandhi Software\FileFolderDel\FileFolderDel\bin\Debug\FileFolderDel.pdb
+E:\Sandhi\Laptop Backup\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.csprojResolveAssemblyReference.cache
+E:\Sandhi\Laptop Backup\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.Form1.resources
+E:\Sandhi\Laptop Backup\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.Properties.Resources.resources
+E:\Sandhi\Laptop Backup\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.csproj.GenerateResource.Cache
+C:\Users\SubhasishG\Desktop\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.exe
+C:\Users\SubhasishG\Desktop\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.pdb
+D:\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.exe
+D:\Sandhi Software\FileFolderDel\FileFolderDel\obj\x86\Debug\FileFolderDel.pdb
